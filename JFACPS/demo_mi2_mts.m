@@ -1,8 +1,3 @@
-%Embedded Knowledge Transfer for Brain-Computer Interfaces (MEKT)
-% =====================
-% Author: Wen Zhang and Dongrui Wu
-% Date: Oct. 9, 2019
-% E-mail: wenz@hust.edu.cn
 
 clc;
 clear all;
